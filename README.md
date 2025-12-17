@@ -46,8 +46,8 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 # - Python version (e.g., cp311 for Python 3.11, cp312 for Python 3.12)
 # - Platform (linux_x86_64 for Ubuntu)
 
-# Example for Python 3.11 + PyTorch 2.7:
-pip install https://github.com/nunchaku-tech/nunchaku/releases/download/v0.3.1/nunchaku-0.3.1+torch2.7-cp311-cp311-linux_x86_64.whl
+# Example for Nunchaku 1.0.2 + Python 3.12 + PyTorch 2.9:
+pip install https://github.com/nunchaku-tech/nunchaku/releases/download/v1.0.2/nunchaku-1.0.2+torch2.9-cp312-cp312-linux_x86_64.whl
 
 # Step 3: Install diffusers and other required packages
 pip install diffusers transformers accelerate safetensors
